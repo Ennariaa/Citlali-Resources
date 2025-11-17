@@ -42,8 +42,8 @@ Collected information is used solely to provide and improve the Bot's features, 
 
 ## User Rights
 
-- You may request deletion of your data (XP, points, birthdays, warnings, etc.) by contacting the Bot owner.
-- Server administrators may clear configuration data using Bot commands.
+- You may request deletion of your data (XP, points, birthdays, etc.) by contacting the Bot owner.
+- Server administrators may clear some configuration data using Bot commands.
 
 ## Security
 
@@ -52,8 +52,9 @@ Collected information is used solely to provide and improve the Bot's features, 
 
 ## Changes to This Policy
 
-This policy may be updated from time to time. Changes will be posted in the bot's documentation or support server.
+This policy may be updated from time to time without warning. Continued use of Yuu-Chan means you accept these new term's.
 
 ## Contact
+
 
 For questions or requests regarding your data, please contact the Bot owner: @ennariaa on Discord.
