@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This privacy policy explains how the Yuu-Chan Discord bot collects, uses, and protects your information when you use its services.
+This privacy policy explains how the Citlali Discord bot collects, uses, and protects your information when you use its services.
 
 ## Information Collection
 
@@ -52,9 +52,10 @@ Collected information is used solely to provide and improve the Bot's features, 
 
 ## Changes to This Policy
 
-This policy may be updated from time to time without warning. Continued use of Yuu-Chan means you accept these new term's.
+This policy may be updated from time to time without warning. Continued use of Citlali means you accept these new term's.
 
 ## Contact
 
 
 For questions or requests regarding your data, please contact the Bot owner: @ennariaa on Discord.
+
