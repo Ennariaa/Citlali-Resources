@@ -4,7 +4,7 @@
 
 ## Introduction
 
-These Terms of Use govern your use of the Yuu-Chan Discord bot. By using the Bot, you agree to these Terms. If you do not agree, please do not use the Bot.
+These Terms of Use govern your use of the Citlali Discord bot. By using the Bot, you agree to these Terms. If you do not agree, please do not use the Bot.
 
 ## Usage
 
@@ -36,3 +36,4 @@ These Terms of Use govern your use of the Yuu-Chan Discord bot. By using the Bot
 ## Contact
 
 For questions or concerns about these Terms, please contact the Bot owner. @ennariaa on Discord.
+
